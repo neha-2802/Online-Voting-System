@@ -1,1 +1,2 @@
 # Online-Voting-System
+This Java program simulates a simple online voting system where users can cast a vote for one of four candidates: Akshaya, Amulya, Joshna, or Yasaswini. It first prompts the user for their name and age and only allows voting if the user is 18 years or older. Once eligible, the user selects their preferred candidate by entering a corresponding number. After voting, the program confirms the vote and displays the current vote tally for all candidates. If the user is underage, the program notifies them of their ineligibility to vote.
